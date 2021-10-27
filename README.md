@@ -1,12 +1,6 @@
 # Bank Churn
 
-<table>
-<tr>
-<td>
-  Classified customers for churn in the next 6 months with a neural network-based classifier.
-</td>
-</tr>
-</table>
+Classified customers for churn in the next 6 months with a neural network-based classifier.
 
 ## Context
 
